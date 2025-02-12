@@ -1,9 +1,5 @@
 # Electric Vehicles Market Size Analysis using Python
 
-**Author:** Aman Kharwal  
-**Date:** March 18, 2024  
-**Category:** Machine Learning
-
 ## Overview
 This project analyzes the market size of electric vehicles (EVs) in the United States. It explores how the EV market has grown over time and forecasts future trends. By studying various aspects like adoption over time, geographical distribution, EV types, manufacturer/model popularity, and electric range, the project provides insights into the potential growth of the EV industry.
 
